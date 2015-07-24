@@ -1,0 +1,16 @@
+[
+{
+  "modid": "breadstone",
+  "name": "Breadstone Mod by Dralard",
+  "description": "Adds in a new type of Ore; 'Breadstone'.      When harvested, this ore drops 'Bread' which functions as normal bread.",
+  "version": "1.1",
+  "mcversion": "1.8.X",
+  "url": "N/A",
+  "updateUrl": "",
+  "authorList": ["Dralard"],
+  "credits": "Dralard",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]
